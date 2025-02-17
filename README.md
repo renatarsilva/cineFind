@@ -2,6 +2,8 @@
 
 🚀 **CineFind** is an application that helps you find and explore movies quickly and intuitively. With a modern interface and advanced features, you can search thousands of movies, view details, and choose your favorites effortlessly.
 
+<img center="right" src="https://img001.prntscr.com/file/img001/2JaqEjhiQ5iFeeuiI3FrUw.png"  />
+
 ## 📌 **Features**
 
 - 🔍 Intuitive movie search
